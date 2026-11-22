@@ -1,0 +1,3 @@
+# Keeps uploads/students directory tracked
+*
+!.gitkeep
